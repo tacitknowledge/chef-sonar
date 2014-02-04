@@ -1,5 +1,7 @@
 # DESCRIPTION:
 
+TK fork of Christian Trabold's sonar cookbook on github (0.0.4) - fixes issue with init.d not created when chef's service resource tries to start sonar the first time.
+
 This cookbook basically translates the install instructions from http://docs.codehaus.org/display/SONAR/Install+Sonar#InstallSonar-Server into chef DSL.
 
 # REQUIREMENTS:
