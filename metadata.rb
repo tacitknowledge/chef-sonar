@@ -1,4 +1,4 @@
-name             "tk-chef-sonar"
+name             "sonar"
 maintainer       "Christian Trabold"
 maintainer       "Michael Huff"
 maintainer_email "info@christian-trabold.de"
